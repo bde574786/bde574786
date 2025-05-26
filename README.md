@@ -7,7 +7,7 @@
 <div align="center">
   <h1>📝 Tech Blog</h1>
   <a href="https://bde574786.tistory.com/" target="_blank">https://bde574786.tistory.com/</a> new<br>
-  <a href="https://github.com/bde574786" target="_blank">https://blog.naver.com/bde574786/</a> old
+  <a href="https://blog.naver.com/bde574786/" target="_blank">https://blog.naver.com/bde574786/</a> old
 </div>
 <br>
 <br>
